@@ -1,0 +1,15 @@
+
+Mine:
+Rock = X = 		1
+Paper = Y = 	2
+Scissors = Z = 	3
+
+Theirs:
+Rock = A
+Paper = B
+Scisors = C 
+
+Round Scores:
+Lose = 0
+Draw = 3
+Win = 6
