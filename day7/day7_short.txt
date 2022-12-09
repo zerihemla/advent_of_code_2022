@@ -1,0 +1,30 @@
+$ cd /
+$ ls
+53302 chvtw.czb
+240038 dwhl.nrn
+124868 dwhl.vvb
+dir fml
+dir jbgpgvj
+dir qjphltd
+dir wlfprc
+dir zqvh
+dir zzmgz
+$ cd fml
+$ ls
+dir bztjtqg
+176916 crgzcmrt.jlr
+199024 gpnmqlr.rdb
+dir lwpbbb
+dir nsdgz
+186077 sfrlrc.jtj
+$ cd ..
+$ cd zqvh
+$ ls
+10 one
+11 two
+$ cd /
+$ cd zzmgz
+$ ls
+14 dun
+15 dun
+16 dun

@@ -51,6 +51,7 @@ fn main()
 
             max_sum += max_val;
             sum_arr[max_index] = 0;
+            max_val = 0;
          }
          println!("MaxVal {}", max_val);
          println!("MaxSum {}", max_sum);
